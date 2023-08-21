@@ -72,7 +72,7 @@ WSGI_APPLICATION = 'account.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
-
+# Database setup to amazon web
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
